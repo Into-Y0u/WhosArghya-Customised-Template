@@ -40,7 +40,7 @@ So, Finally.. if everything goes right .
 You will see this kind of file structure .
 You just have to edit this Database.js file to enter your data .
 
-picture 1 
+ [](https://github.com/Into-Y0u/WhosArghya-Customised-Template/blob/807bebf85dd13f192a3ad629fb6192bd41a2ce50/Screenshot%20(40)_LI.jpg)
 
 
 Database.js file looks like these. Modify and boom ..
