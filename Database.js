@@ -1,7 +1,13 @@
 
 export default{
+
+    // this will be the name/logo of the website
     webName : "WhoArghya??",
+
+    // frontpage Intro 
     intro : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum nulla magnam fugit cumque adipisci eius.",
+
+    // your experinces section .
     experi : [
         {
             _id : 1 ,
@@ -25,6 +31,8 @@ export default{
             compDesc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et ad fugiat illum modi, rerum sed odio voluptatum quaerat laudantium aliquid!"
         },
     ],
+
+    // projects you have done. if not deployed. you can share github link in both the places
     projs : [
         {
             _id : 1 ,
@@ -82,9 +90,13 @@ export default{
         }
     ],
 
+
+    // few words about yourself
     aboutYourself : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam obcaecati, id excepturi explicabo expedita optio quas soluta sunt ipsa magnam? Quos nesciunt odit odio beatae consequatur velit, officia ad enim, corporis vero harum itaque illo perspiciatis, maxime aspernatur corrupti cupiditate ipsum alias iure explicabo? Corporis quibusdam, laboriosam expedita, ab molestiae placeat quisquam inventore fugiat labore quos ea, et magnam a amet aperiam ratione molestias. Iusto officia saepe deserunt blanditiis libero, labore ex reprehenderit architecto molestias! Sint dolore quaerat ratione ipsum culpa quod natus, amet delectus atque esse quasi impedit inventore voluptatem. Ipsum qui ipsam vero nihil ullam deserunt placeat recusandae!"  ,
 
 
+
+    // Education details
     education : [
         {
             _id : 1 ,
@@ -109,6 +121,9 @@ export default{
         },
 
     ],
+
+
+    // very very important .. contact and links
     contacts : {
         linkedin : "https://www.linkedin.com/in/arghyadev-sarkar/",
         twitter : "#",
